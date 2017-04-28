@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VHVisualisation.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FeaturesFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">H:\VggFc7.features</Value>
+    </Setting>
+    <Setting Name="ThumbnailsFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">H:\TrecVid-96x72-1sec.thumbs</Value>
+    </Setting>
+    <Setting Name="videoCountToRead" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="LoadThreshold" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">220</Value>
+    </Setting>
+    <Setting Name="InitGridSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">16</Value>
+    </Setting>
+    <Setting Name="IMSwitchRuns" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50000</Value>
+    </Setting>
+    <Setting Name="MaxFramesPerVideo" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="skipframes" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="NeighbouthoodSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="TrecVidBaseID" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">35345</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
